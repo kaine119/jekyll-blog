@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello world</title>
+    <description>A sample blog made with jekyll, for a GCI task.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2016 10:00:40 +0800</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 10:00:40 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;p&gt;Hello, I’m Kai En.&lt;/p&gt;
+
+&lt;p&gt;I’m a 14-year-old Secondary student, participating in &lt;a href=&quot;https://developers.google.com/open-source/gci/?hl=en&quot;&gt;Google Code-In 2015&lt;/a&gt;. I play the drum kit.&lt;/p&gt;
+
+&lt;p&gt;Over the course of GCI, I’ve worked with &lt;a href=&quot;http://fossasia.org/&quot;&gt;FOSSASIA&lt;/a&gt;, a non-profit organisation dedicated to supporting developers of Free and Open Source technologies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/db/FOSSASIA_2014%2C_Group_Photo.JPG&quot; alt=&quot;FOSSASIA 2014, group photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With them, I have learnt many things about open source development, including how to collaborate with others on &lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The FOSSASIA community is very helpful and friendly.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Jan 2016 08:05:13 +0800</pubDate>
+        <link>http://yourdomain.com/gci/2016/01/03/introduction.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/gci/2016/01/03/introduction.html</guid>
+        
+        
+        <category>gci</category>
+        
+      </item>
+    
+  </channel>
+</rss>
